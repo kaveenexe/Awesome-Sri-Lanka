@@ -94,6 +94,13 @@ All four major Sri Lankan mobile operators have launched commercial network APIs
   - Economic Census data
   - Household surveys and microdata
 
+### Salary and Payroll
+- **[MyPayslip.lk Salary Calculation API](https://mypayslip.lk/methodology/)** - Free Sri Lankan salary and payslip calculation API
+  - **Endpoint:** `https://mypayslip.lk/api/calc?salary=200000`
+  - **Coverage:** APIT/PAYE, employee and employer EPF, ETF, stamp duty, net salary, and employer cost
+  - **Authentication:** None; read-only JSON with HTTPS and CORS
+  - **References:** [OpenAPI 3.1](https://mypayslip.lk/openapi.json) and [public JavaScript implementation](https://github.com/Buddhima-JD3/sri-lanka-salary-calculator)
+
 ---
 
 ## 📰 News & Media APIs
