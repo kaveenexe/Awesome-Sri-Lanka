@@ -278,6 +278,8 @@ This list is released into the public domain under [CC0](https://creativecommons
 - [Awesome Lists](https://awesome.re) - The awesome list phenomenon
 - [Public APIs](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [Open Source Guides](https://opensource.guide/) - Learn how to contribute to open source
+- [HostDeFi Token Safety Snapshot](https://hostdefi.com/data/) - Free weekly dataset of token-safety grades across Solana and EVM chains, CC BY 4.0, CSV.
+
 
 ---
 
