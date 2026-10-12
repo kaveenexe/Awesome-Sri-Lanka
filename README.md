@@ -94,6 +94,9 @@ All four major Sri Lankan mobile operators have launched commercial network APIs
   - Economic Census data
   - Household surveys and microdata
 
+### International Economic Data Tools
+- **[Invokely](https://invokely.ai/docs)** - Hosted MCP and web access to source-cited statistics, including World Bank GDP for Sri Lanka ([example](https://invokely.ai/en/gdp-usd/sri-lanka)). Free MCP: 500 calls/month; no-account trial: 25 calls/day/IP. REST data calls require Builder, Pro, or prepaid credits. Publisher reuse terms vary ([pricing](https://invokely.ai/pricing), [sources](https://invokely.ai/sources)).
+
 ---
 
 ## 📰 News & Media APIs
